@@ -1,2 +1,2 @@
-# Dev web morpion socket
+# Dev logiciel morpion socket
  Projet de developpement web 
